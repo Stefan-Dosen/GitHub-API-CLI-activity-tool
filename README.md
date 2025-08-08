@@ -21,3 +21,5 @@ pip install requests
 Only shows commit messages from PushEvent types.
 
 Handles invalid usernames and API errors gracefully
+
+This was an excersise from: https://roadmap.sh/projects/github-user-activity
